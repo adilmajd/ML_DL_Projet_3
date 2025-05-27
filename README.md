@@ -23,6 +23,8 @@ Modèle Deep Learning de type End-to-End -Audio-
   <img width="12" />
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="40" alt="react logo"  />
+  <img width="12" />
 
 </div>
 
