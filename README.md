@@ -338,18 +338,4 @@ predicted_class_name = le.inverse_transform([predicted_class_index])[0] # Invers
 print(f"Classe prédite (index) : {predicted_class_index}")
 print(f"Classe prédite (nom) : {predicted_class_name}")
 ```
-```bash
-pip install torch torchvision matplotlib
-```
-```bash
-pip install torch torchvision matplotlib
-```
-```bash
-pip install torch torchvision matplotlib
-```
-```bash
-pip install torch torchvision matplotlib
-```
-```bash
-pip install torch torchvision matplotlib
-```
+
