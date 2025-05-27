@@ -46,7 +46,9 @@ print('Data source import complete.')
 Installer la bibliothèque pydub dans un environnement, il permet de manipuler des fichiers audios de façon simple.
 
 ```bash
-!pip install pydub
+pip install numpy joblib pydub librosa scikit-learn
+pip install numpy pydub librosa tensorflow
+pip install pydub
 ```
 
 Une série d’importations de bibliothèques Python utilisées pour un projet deep learning / machine learning appliqué à de l'audio, probablement pour la reconnaissance vocale.
